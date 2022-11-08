@@ -1,5 +1,5 @@
 # Casos Nuevo Coronavirus
-# Datos de https://github.com/CSSEGISandData/COVID-19
+# Datos de https://github.com/CSSEGISandData/COVID-19 edicion sin sentido
 # Actualizado el 13 de Abril de 2020 
 
 color1 <-"#414141" #color de los paises
